@@ -10,7 +10,7 @@
 - Environments / OS : VirtualBox, VMware, Ubuntu
 
 ## Education
-- Kunsan National Univ Dept of.law and Digital Forensic(2022.03 ~ ing)
+- Kunsan National Univ Dept of. law and Digital Forensic(2022.03 ~ ing)
 - Sancheong High School (2019.03 ~ 2022.02)
 
 ## External Activities
