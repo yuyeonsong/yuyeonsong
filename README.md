@@ -11,7 +11,7 @@
 
 ## Education
 - Kunsan National Univ Dept of. law and Digital Forensic(2022.03 ~ ing)
-- Sancheong High School (2019.03 ~ 2022.2)
+- Sancheong High School (2019.03 ~ 2022.02)
 
 ## External Activities
 ### 산대특 화이트해커 정보보안 전문양성과정
