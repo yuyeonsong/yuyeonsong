@@ -5,7 +5,7 @@
 - Email : ys200343@naver.com
 
 ## Skil and Tool
-- Languages : Python, PHP, MySQL, Flask
+- Languages : Python, PHP, Flask
 - Security : Wireshark, ELK, Splunk, Burp Suite
 - Environments / OS : VirtualBox, VMware, Ubuntu
 
@@ -18,6 +18,6 @@
 2024.12.17 ~ 2025.3.20 (480H)
 - 산업구조변화대응 특화 훈련
 
-### SK쉴더스 Rookies 클라우드 기반 스마트 융헙보안과정
+### SK쉴더스 Rookies 클라우드 기반 스마트 융합보안과정
 2025.07.03 ~ ing
 - SK쉴더스 채용연계형 과정
